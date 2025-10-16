@@ -23,16 +23,6 @@ Bachelor of Science in Information Technology (BS-IT) – *University of the Pun
 - 🌐 Strong understanding of **Database Design**, **Backend Logic**, and **User Interface Development**
 - 📘 Love to explore **new technologies** and **improve user experience**
 
----
-
-### ⚙️ **Tech Stack**
-| Category | Technologies |
-|-----------|--------------|
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
-| **Backend** | Laravel, Core PHP |
-| **Database** | MySQL, phpMyAdmin |
-| **Tools & Platforms** | VS Code, XAMPP, Git, GitHub, Postman |
-| **Design** | Canva, Figma, Adobe XD (basic UI/UX) |
 
 ---
 
@@ -47,15 +37,6 @@ Bachelor of Science in Information Technology (BS-IT) – *University of the Pun
 
 ---
 
-### 📫 **Get in Touch**
-- 📧 **Email:** login.me.internet@gmail.com  
-- 💼 **LinkedIn:** [Irshad Ali](https://www.linkedin.com/in/irshad1x2)
-- 🎥 **YouTube:** [@Irshadoffc](https://www.youtube.com/@irshadoffc)]
-
----
-
-### 🧠 **Fun Fact**
-> I love transforming ideas into functional digital experiences. Every project is a new story I code into reality!
 
 ---
 ### 🛠️ Tech Stack
@@ -79,16 +60,18 @@ Bachelor of Science in Information Technology (BS-IT) – *University of the Pun
 ### 📊 GitHub Stats
 ![Irshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irshadoffc&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irshadoffc&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Irshadoffc&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Irshadoffc&theme=tokyonight)
 
 ---
 
 ### 🌍 Connect with Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Irshadoffc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its-irshad-ali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Irshad Ali](https://www.linkedin.com/in/irshad1x2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshad1x2)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Arsh00Ali)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irshadoffc)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VamqJts1yT25L6oIDg1o)
 
 ---
+### 🧠 **Fun Fact**
+> I love transforming ideas into functional digital experiences. Every project is a new story I code into reality!
