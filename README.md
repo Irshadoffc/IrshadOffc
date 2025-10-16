@@ -3,7 +3,7 @@
 💻 **Laravel & PHP Developer | Full Stack Web Developer | Tech Enthusiast**
 
 I'm a passionate web developer with **1+ year of professional experience** in building responsive and dynamic web applications.  
-I specialize in **Laravel**, **PHP**, **MySQL**, **Bootstrap**, and **JavaScript**, and I enjoy creating custom web solutions from scratch.
+I specialize in **Laravel**, **PHP**, **MySQL**, **Bootstrap**, JQuery, TalwindCss, react js, and **JavaScript**, and I enjoy creating custom web solutions from scratch.
 
 🎓 **Education:**  
 Bachelor of Science in Information Technology (BS-IT) – *University of the Punjab*  
@@ -60,7 +60,7 @@ Bachelor of Science in Information Technology (BS-IT) – *University of the Pun
 ### 📊 GitHub Stats
 ![Irshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irshadoffc&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irshadoffc&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Irshadoffc&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Irshadoffc&theme=tokyonight)
 
 ---
 
