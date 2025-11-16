@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Irshad Ali
+Unfortunately, my previous GitHub account has been suspended.
+https://github.com/Irshad-Ali-Offc/
+Please use my new GitHub account for any future access or collaboration:  https://github.com/Irshadoffc/IrshadOffc/
+
 
 💻 **Laravel & PHP Developer | Full Stack Web Developer | Tech Enthusiast**
 
