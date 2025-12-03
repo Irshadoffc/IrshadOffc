@@ -91,13 +91,20 @@ I specialize in **Laravel**, **PHP**, **MySQL**, **JavaScript**, **jQuery**, **B
 
 ---
 
-##  GitHub Stats
 
-###  GitHub Profile Stats  
-![Irshad's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Irshadoffc&show_icons=true&theme=tokyonight)
+### ✔️ GitHub Stats  
+| Stats | Streak |
+|-------|--------|
+| <img src="https://github-readme-stats.vercel.app/api?username=Irshad-Ali-Dev&show_icons=true&theme=tokyonight" height="150" /> | <img src="https://streak-stats.demolab.com/?user=Irshad-Ali-Dev&theme=tokyonight" height="150" /> |
 
-###  Top Languages  
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Irshadoffc&layout=compact&theme=tokyonight)
+---
+
+### ✔️ Top Languages  
+| Languages |
+|----------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irshad-Ali-Dev&layout=compact&theme=tokyonight" height="150" /> |
+
+---
 
 ###  Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Irshadoffc&theme=tokyonight)
