@@ -51,27 +51,22 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 ## 🧩 Featured Projects
 
 ### 🔐 FFS (Private)
-![FFS Screenshot](https://via.placeholder.com/600x300?text=FFS+Project)
 - **Type:** Client Project  
 - **Tech:** PHP  
 - **Description:** Demand Form Management System  
-- **Status:** ✅ Completed  
-- **Updated:** *9 minutes ago*
+- **Status:** **Inprogress**  
 
 ---
 
 ### 🔐 elite_editing (Private)
-![Elite Editing Screenshot](https://via.placeholder.com/600x300?text=Elite+Editing+Project)
 - **Type:** Client Project  
 - **Tech:** PHP, MySQL  
 - **Description:** Content Editing & Management Platform  
 - **Status:** ✅ Completed  
-- **Updated:** *5 days ago*
 
 ---
 
 ### 🏥 Hospital Management System
-![HMS Screenshot](https://via.placeholder.com/600x300?text=Hospital+Management+System)
 - **Type:** Role-Based Web Application  
 - **Tech:** Laravel, PHP, MySQL  
 - **Description:** Multi-role modules for Patients, Doctors, Receptionists & Admin  
@@ -80,7 +75,6 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 ---
 
 ### 📱 Mobile Showroom Management System
-![Mobile Showroom Screenshot](https://via.placeholder.com/600x300?text=Mobile+Showroom)
 - **Type:** Inventory & Billing System  
 - **Tech:** PHP, MySQL, JavaScript  
 - **Description:** Tracks stock, automates billing, and manages products  
@@ -89,7 +83,6 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 ---
 
 ### 💰 Gold Management System
-![Gold Management Screenshot](https://via.placeholder.com/600x300?text=Gold+Management)
 - **Type:** Inventory & Client Tracking  
 - **Tech:** PHP, MySQL, JavaScript  
 - **Description:** Manages gold items, customers, and transactions  
@@ -97,24 +90,22 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 
 ---
 
+### 🛍️ Aura-e-Zindagi
+- **Type:** E-Commerce Platform  
+- **Tech:** Laravel, PHP, MySQL  
+- **Description:** Full-featured online shopping system  
+- **Status:** ✅ Completed  
+
+
+---
+
 ### 🎬 1-Clip Video Splitter
-![1-Clip Screenshot](https://via.placeholder.com/600x300?text=1-Clip+Video+Splitter)
 - **Type:** Lightweight Desktop/Web Tool  
 - **Tech:** JavaScript  
 - **Description:** Simple video-splitting tool for quick edits  
 - **Status:** ✅ Completed  
 
 ---
-
-### 🛍️ Aura-e-Zindagi
-![Aura Screenshot](https://via.placeholder.com/600x300?text=Aura-e-Zindagi)
-- **Type:** E-Commerce Platform  
-- **Tech:** Laravel, PHP, MySQL  
-- **Description:** Full-featured online shopping system  
-- **Status:** 🚧 In Development  
-
----
-
 ## 📈 GitHub Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Irshadoffc&theme=tokyonight)
 
