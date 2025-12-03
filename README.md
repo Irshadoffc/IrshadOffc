@@ -44,6 +44,29 @@ I specialize in **Laravel**, **PHP**, **MySQL**, **JavaScript**, **jQuery**, **B
 | 💰 **Gold Management System** | Track gold items, customers & transactions |
 | 🎬 **1-Clip Video Splitter** | Simple and clean video-splitting tool |
 | 🛍️ **Aura-e-Zindagi** | Laravel-based e-commerce system (in progress) |
+## 📦 Featured Repository Projects
+
+### 🔐 FFS (Private)
+- **Type:** Client Project  
+- **Tech:** PHP  
+- **Description:** Demand Form management system  
+- **Updated:** *9 minutes ago*
+
+---
+
+### 🔐 elite_editing (Private)
+- **Type:** Client Project  
+- **Description:** Content editing & management platform  
+- **Updated:** *5 days ago*
+
+---
+
+### 🛍️ Aura-e-Zindagi
+- **Type:** E-Commerce Platform  
+- **Tech:** Laravel  
+- **Description:** Full-scale online shopping system  
+- **Status:** In Development 🚧  
+
 
 ---
 
@@ -68,19 +91,17 @@ I specialize in **Laravel**, **PHP**, **MySQL**, **JavaScript**, **jQuery**, **B
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-### ✔️ GitHub Profile Stats  
-![Irshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irshadoffc&show_icons=true&theme=tokyonight)
+###  GitHub Profile Stats  
+![Irshad's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Irshadoffc&show_icons=true&theme=tokyonight)
 
-### ✔️ Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irshadoffc&layout=compact&theme=tokyonight)
+###  Top Languages  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Irshadoffc&layout=compact&theme=tokyonight)
 
-### ✔️ Contribution Streak  
+###  Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Irshadoffc&theme=tokyonight)
-
 ---
-
 ## 🌍 Connect with Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Irshadoffc)
