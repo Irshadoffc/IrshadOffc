@@ -1,72 +1,29 @@
 # 👋 Hi, I'm Irshad Ali
 
 > ⚠️ **Note:** My previous GitHub account was suspended:  
-> 🔗 https://github.com/Irshad-Ali-Offc/  
->  
-> ✅ Please use my new GitHub account for all future access or collaboration:  
-> 🔗 https://github.com/Irshadoffc/IrshadOffc/
+> 🔗 [Irshad-Ali-Offc](https://github.com/Irshad-Ali-Offc)  
+> ✅ Please use my new GitHub account for all future collaboration:  
+> 🔗 [Irshadoffc](https://github.com/Irshadoffc/IrshadOffc)
 
 ---
 
-# 💻 Laravel & PHP Developer | Full Stack Web Developer | Tech Enthusiast
+# 💻 Full Stack Web Developer | Laravel & PHP Specialist
 
-I’m a passionate Web Developer with **1+ year of professional experience** in building modern, responsive, and dynamic web applications.
+I’m a passionate **Full Stack Web Developer** with 1+ year of professional experience building **responsive, scalable, and dynamic web applications**.  
 
-I specialize in **Laravel**, **PHP**, **MySQL**, **JavaScript**, **jQuery**, **Bootstrap**, **TailwindCSS**, and **React.js**.
+**Core Expertise:** Laravel, PHP, MySQL, JavaScript, React.js, jQuery, Bootstrap, TailwindCSS
 
-🎓 **Education:**  
-**BS Information Technology (BS-IT)** – *University of the Punjab*  
-📊 **CGPA:** 3.42
+🎓 **Education:** BS Information Technology – *University of the Punjab*  
+📊 **CGPA:** 3.42  
 
 ---
 
 ## 🚀 About Me
 
-- 🔧 Experienced in creating **end-to-end web applications** using Laravel & Core PHP  
-- 🏗️ Build systems completely **from scratch** — UI → Backend → Database  
-- 💼 Delivered multiple real-world client projects:
-  - 🏥 **Hospital Management System (HMS)** – multi-role, module-based system  
-  - 📱 **Mobile Showroom Management System** – stock & billing automation  
-  - 💰 **Gold Management System** – inventory, clients & sales tracking  
-  - 🎬 **1-Clip Video Splitter** – lightweight video cutting tool  
-  - 🛍️ **Aura-e-Zindagi (Ongoing)** – full e-commerce platform in Laravel  
-- 🌐 Strong in **Backend Logic**, **Database Designing**, and **UI Development**  
-- 📘 Love exploring new technologies and improving user experience
-
----
-
-## 🧩 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🏥 **Hospital Management System** | Role-based modules for Patients, Doctors, Receptionists & Admin |
-| 📱 **Mobile Showroom Management System** | Inventory, billing & product management |
-| 💰 **Gold Management System** | Track gold items, customers & transactions |
-| 🎬 **1-Clip Video Splitter** | Simple and clean video-splitting tool |
-| 🛍️ **Aura-e-Zindagi** | Laravel-based e-commerce system (in progress) |
-## 📦 Featured Repository Projects
-
-### 🔐 FFS (Private)
-- **Type:** Client Project  
-- **Tech:** PHP  
-- **Description:** Demand Form management system  
-- **Updated:** *9 minutes ago*
-
----
-
-### 🔐 elite_editing (Private)
-- **Type:** Client Project  
-- **Description:** Content editing & management platform  
-- **Updated:** *5 days ago*
-
----
-
-### 🛍️ Aura-e-Zindagi
-- **Type:** E-Commerce Platform  
-- **Tech:** Laravel  
-- **Description:** Full-scale online shopping system  
-- **Status:** In Development 🚧  
-
+- Experienced in building **end-to-end applications** from UI to backend and database.  
+- Delivered multiple **real-world client projects** with role-based modules and e-commerce systems.  
+- Strong in **Backend Logic**, **Database Design**, and **User Interface Development**.  
+- Passionate about **optimizing user experience** and exploring new technologies.
 
 ---
 
@@ -91,24 +48,68 @@ I specialize in **Laravel**, **PHP**, **MySQL**, **JavaScript**, **jQuery**, **B
 
 ---
 
+## 🧩 Featured Projects
 
-### ✔️ GitHub Stats  
-| Stats | Streak |
-|-------|--------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Irshad-Ali-Dev&show_icons=true&theme=tokyonight" height="150" /> | <img src="https://streak-stats.demolab.com/?user=Irshad-Ali-Dev&theme=tokyonight" height="150" /> |
-
----
-
-### ✔️ Top Languages  
-| Languages |
-|----------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irshad-Ali-Dev&layout=compact&theme=tokyonight" height="150" /> |
+### 🔐 FFS (Private)
+- **Type:** Client Project  
+- **Tech:** PHP  
+- **Description:** Demand Form Management System  
+- **Updated:** *9 minutes ago*
 
 ---
 
-###  Contribution Streak  
+### 🔐 elite_editing (Private)
+- **Type:** Client Project  
+- **Description:** Content Editing & Management Platform  
+- **Updated:** *5 days ago*
+
+---
+
+### 🏥 Hospital Management System
+- **Type:** Role-Based Web Application  
+- **Tech:** Laravel, PHP, MySQL  
+- **Description:** Multi-role modules for Patients, Doctors, Receptionists & Admin  
+- **Status:** Completed ✅
+
+---
+
+### 📱 Mobile Showroom Management System
+- **Type:** Inventory & Billing System  
+- **Tech:** PHP, MySQL, JavaScript  
+- **Description:** Tracks stock, automates billing, and manages products  
+- **Status:** Completed ✅
+
+---
+
+### 💰 Gold Management System
+- **Type:** Inventory & Client Tracking  
+- **Tech:** PHP, MySQL, JavaScript  
+- **Description:** Manages gold items, customers, and transactions  
+- **Status:** Completed ✅
+
+---
+
+### 🎬 1-Clip Video Splitter
+- **Type:** Lightweight Desktop/Web Tool  
+- **Tech:** JavaScript  
+- **Description:** Simple video-splitting tool for quick edits  
+- **Status:** Completed ✅
+
+---
+
+### 🛍️ Aura-e-Zindagi
+- **Type:** E-Commerce Platform  
+- **Tech:** Laravel, PHP, MySQL  
+- **Description:** Full-featured online shopping system  
+- **Status:** In Development 🚧
+
+---
+
+## 📈 GitHub Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Irshadoffc&theme=tokyonight)
+
 ---
+
 ## 🌍 Connect with Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Irshadoffc)
