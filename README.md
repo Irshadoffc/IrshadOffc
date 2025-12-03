@@ -9,7 +9,7 @@
 
 # 💻 Full Stack Web Developer | Laravel & PHP Specialist
 
-I’m a passionate **Full Stack Web Developer** with 1+ year of professional experience building **responsive, scalable, and dynamic web applications**.  
+I’m a passionate **Full Stack Web Developer** with **1+ year of experience** building **responsive, scalable, and dynamic web applications**.  
 
 **Core Expertise:** Laravel, PHP, MySQL, JavaScript, React.js, jQuery, Bootstrap, TailwindCSS
 
@@ -20,10 +20,10 @@ I’m a passionate **Full Stack Web Developer** with 1+ year of professional exp
 
 ## 🚀 About Me
 
-- Experienced in building **end-to-end applications** from UI to backend and database.  
-- Delivered multiple **real-world client projects** with role-based modules and e-commerce systems.  
-- Strong in **Backend Logic**, **Database Design**, and **User Interface Development**.  
-- Passionate about **optimizing user experience** and exploring new technologies.
+- 🔧 Experienced in building **end-to-end applications** from UI → Backend → Database  
+- 💼 Delivered **real-world client projects** with multi-role systems and e-commerce platforms  
+- 🌐 Strong in **Backend Logic**, **Database Design**, and **User Interface Development**  
+- 📘 Passionate about **optimizing user experience** and exploring new technologies  
 
 ---
 
@@ -51,57 +51,67 @@ I’m a passionate **Full Stack Web Developer** with 1+ year of professional exp
 ## 🧩 Featured Projects
 
 ### 🔐 FFS (Private)
+![FFS Screenshot](https://via.placeholder.com/600x300?text=FFS+Project)
 - **Type:** Client Project  
 - **Tech:** PHP  
 - **Description:** Demand Form Management System  
+- **Status:** ✅ Completed  
 - **Updated:** *9 minutes ago*
 
 ---
 
 ### 🔐 elite_editing (Private)
+![Elite Editing Screenshot](https://via.placeholder.com/600x300?text=Elite+Editing+Project)
 - **Type:** Client Project  
+- **Tech:** PHP, MySQL  
 - **Description:** Content Editing & Management Platform  
+- **Status:** ✅ Completed  
 - **Updated:** *5 days ago*
 
 ---
 
 ### 🏥 Hospital Management System
+![HMS Screenshot](https://via.placeholder.com/600x300?text=Hospital+Management+System)
 - **Type:** Role-Based Web Application  
 - **Tech:** Laravel, PHP, MySQL  
 - **Description:** Multi-role modules for Patients, Doctors, Receptionists & Admin  
-- **Status:** Completed ✅
+- **Status:** ✅ Completed  
 
 ---
 
 ### 📱 Mobile Showroom Management System
+![Mobile Showroom Screenshot](https://via.placeholder.com/600x300?text=Mobile+Showroom)
 - **Type:** Inventory & Billing System  
 - **Tech:** PHP, MySQL, JavaScript  
 - **Description:** Tracks stock, automates billing, and manages products  
-- **Status:** Completed ✅
+- **Status:** ✅ Completed  
 
 ---
 
 ### 💰 Gold Management System
+![Gold Management Screenshot](https://via.placeholder.com/600x300?text=Gold+Management)
 - **Type:** Inventory & Client Tracking  
 - **Tech:** PHP, MySQL, JavaScript  
 - **Description:** Manages gold items, customers, and transactions  
-- **Status:** Completed ✅
+- **Status:** ✅ Completed  
 
 ---
 
 ### 🎬 1-Clip Video Splitter
+![1-Clip Screenshot](https://via.placeholder.com/600x300?text=1-Clip+Video+Splitter)
 - **Type:** Lightweight Desktop/Web Tool  
 - **Tech:** JavaScript  
 - **Description:** Simple video-splitting tool for quick edits  
-- **Status:** Completed ✅
+- **Status:** ✅ Completed  
 
 ---
 
 ### 🛍️ Aura-e-Zindagi
+![Aura Screenshot](https://via.placeholder.com/600x300?text=Aura-e-Zindagi)
 - **Type:** E-Commerce Platform  
 - **Tech:** Laravel, PHP, MySQL  
 - **Description:** Full-featured online shopping system  
-- **Status:** In Development 🚧
+- **Status:** 🚧 In Development  
 
 ---
 
