@@ -79,15 +79,7 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 - **Tech:** PHP, MySQL, JavaScript  
 - **Description:** Manages gold items, customers, and transactions  
 - **Status:** ✅ Completed  
-
----
-
-### 🕌 AllMasajid (Private)
-- **Type:** Mobile Application  
-- **Tech:** Java, Android  
-- **Description:** Mosque management and prayer times application  
-- **Status:** ✅ Completed  
-
+ 
 ---
 
 ### 🌐 Meemza.com.pk (Private)
