@@ -50,23 +50,23 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 
 ## 🧩 Featured Projects
 
-### 🔐 FFS (Private)
-- **Type:** Client Project  
-- **Tech:** PHP  
-- **Description:** Demand Form Management System  
-- **Status:** **Inprogress**  
-
----
-
-### 🔐 elite_editing (Private)
-- **Type:** Client Project  
-- **Tech:** PHP, MySQL  
-- **Description:** Content Editing & Management Platform  
+### 📋 Case Management System (Private)
+- **Type:** Enterprise Application  
+- **Tech:** Laravel, PHP, MySQL, Bootstrap, jQuery  
+- **Description:** Case tracking and document management with role-based access control, real-time notifications, and audit logging  
 - **Status:** ✅ Completed  
 
 ---
 
-### 🏥 Hospital Management System
+### 🛍️ Aura-e-Zindagi (Private)
+- **Type:** E-Commerce Platform (Client Project with DevZone)  
+- **Tech:** Laravel, PHP, MySQL, JavaScript  
+- **Description:** Full-featured online shopping system with payment integration  
+- **Status:** ✅ Completed  
+
+---
+
+### 🏥 Hospital Management System (Private)
 - **Type:** Role-Based Web Application  
 - **Tech:** Laravel, PHP, MySQL  
 - **Description:** Multi-role modules for Patients, Doctors, Receptionists & Admin  
@@ -74,15 +74,7 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 
 ---
 
-### 📱 Mobile Showroom Management System
-- **Type:** Inventory & Billing System  
-- **Tech:** PHP, MySQL, JavaScript  
-- **Description:** Tracks stock, automates billing, and manages products  
-- **Status:** ✅ Completed  
-
----
-
-### 💰 Gold Management System
+### 💰 Gold Management System (Private)
 - **Type:** Inventory & Client Tracking  
 - **Tech:** PHP, MySQL, JavaScript  
 - **Description:** Manages gold items, customers, and transactions  
@@ -90,19 +82,50 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 
 ---
 
-### 🛍️ Aura-e-Zindagi
-- **Type:** E-Commerce Platform  
-- **Tech:** Laravel, PHP, MySQL  
-- **Description:** Full-featured online shopping system  
+### 🕌 AllMasajid (Private)
+- **Type:** Mobile Application  
+- **Tech:** Java, Android  
+- **Description:** Mosque management and prayer times application  
 - **Status:** ✅ Completed  
-
 
 ---
 
-### 🎬 1-Clip Video Splitter
-- **Type:** Lightweight Desktop/Web Tool  
-- **Tech:** JavaScript  
-- **Description:** Simple video-splitting tool for quick edits  
+### 🌐 Meemza.com.pk (Private)
+- **Type:** Website Maintenance  
+- **Tech:** Laravel, Blade  
+- **Description:** E-commerce platform maintenance and updates  
+- **Status:** 🔧 Maintenance  
+
+---
+
+### 🏢 Rills (Private)
+- **Type:** Business Management System  
+- **Tech:** Laravel, PHP, MySQL  
+- **Description:** Comprehensive business operations management  
+- **Status:** ✅ Completed  
+
+---
+
+### 📝 FFS - Demand Form Management (Private)
+- **Type:** Client Project  
+- **Tech:** PHP, MySQL  
+- **Description:** Streamlined demand processing and approval workflows  
+- **Status:** ✅ Completed  
+
+---
+
+### ✏️ Elite Editing Platform (Private)
+- **Type:** Client Project  
+- **Tech:** PHP, MySQL  
+- **Description:** Content editing and management with collaborative features  
+- **Status:** ✅ Completed  
+
+---
+
+### 🏪 CKC (Private)
+- **Type:** Business Application  
+- **Tech:** PHP, MySQL  
+- **Description:** Custom business management solution  
 - **Status:** ✅ Completed  
 
 ---
