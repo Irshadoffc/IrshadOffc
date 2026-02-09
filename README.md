@@ -99,9 +99,9 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 ---
 
 ### 🏢 Rills (Private)
-- **Type:** Business Management System  
+- **Type:** School Super admin system  
 - **Tech:** Laravel, PHP, MySQL  
-- **Description:** Comprehensive business operations management  
+- **Description:** Academic , Finance , staff management
 - **Status:** ✅ Completed  
 
 ---
@@ -123,9 +123,9 @@ I’m a passionate **Full Stack Web Developer** with **1+ year of experience** b
 ---
 
 ### 🏪 CKC (Private)
-- **Type:** Business Application  
+- **Type:** School Super admin system  
 - **Tech:** PHP, MySQL  
-- **Description:** Custom business management solution  
+- **Description:** Academic , Finance , staff management
 - **Status:** ✅ Completed  
 
 ---
