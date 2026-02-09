@@ -1,128 +1,103 @@
-# 👋 Hi, I'm Irshad Ali
+# Hi, I'm Irshad Ali 👋
 
-> ⚠️ **Note:** My previous GitHub account was suspended:  
-> 🔗 [Irshad-Ali-Offc](https://github.com/Irshad-Ali-Offc)  
-> ✅ Please use my new GitHub account for all future collaboration:  
-> 🔗 [Irshadoffc](https://github.com/Irshadoffc/IrshadOffc)
+**Full Stack Web Developer | Laravel & PHP Specialist**
 
----
+Passionate developer with 1+ years of experience building scalable, responsive web applications. Specialized in Laravel ecosystem and modern web technologies.
 
-# 💻 Full Stack Web Developer | Laravel & PHP Specialist
-
-I’m a passionate **Full Stack Web Developer** with **1+ year of experience** building **responsive, scalable, and dynamic web applications**.  
-
-**Core Expertise:** Laravel, PHP, MySQL, JavaScript, React.js, jQuery, Bootstrap, TailwindCSS
-
-🎓 **Education:** BS Information Technology – *University of the Punjab*  
-📊 **CGPA:** 3.42  
+🎓 **BS Information Technology** – University of the Punjab (CGPA: 3.42)  
+📍 **Location:** Pakistan  
+💼 **Open to:** Freelance Projects & Full-time Opportunities
 
 ---
 
-## 🚀 About Me
+## 🚀 Technical Expertise
 
-- 🔧 Experienced in building **end-to-end applications** from UI → Backend → Database  
-- 💼 Delivered **real-world client projects** with multi-role systems and e-commerce platforms  
-- 🌐 Strong in **Backend Logic**, **Database Design**, and **User Interface Development**  
-- 📘 Passionate about **optimizing user experience** and exploring new technologies  
+**Backend Development**  
+Laravel • PHP • MySQL • RESTful APIs • Authentication & Authorization
 
----
+**Frontend Development**  
+React.js • JavaScript • jQuery • Bootstrap • TailwindCSS • HTML5 • CSS3
 
-## 🛠️ Tech Stack
+**Tools & Platforms**  
+Git & GitHub • VS Code • XAMPP • Postman • Composer • npm
 
-### 💻 Languages & Frameworks  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Core Competencies**  
+- Full-stack application development (UI → Backend → Database)
+- Database design & optimization
+- Multi-role authentication systems
+- E-commerce platform development
+- API integration & development
 
 ---
 
-## 🧩 Featured Projects
+## 💼 Professional Experience
 
-### 🔐 FFS (Private)
-- **Type:** Client Project  
-- **Tech:** PHP  
-- **Description:** Demand Form Management System  
-- **Status:** **Inprogress**  
+### Featured Client Projects
 
----
+**Case Management System** (In Progress)  
+Enterprise-level case tracking and document management system with role-based access control, real-time notifications, and comprehensive audit logging.  
+*Tech Stack: Laravel, MySQL, Bootstrap, jQuery*
 
-### 🔐 elite_editing (Private)
-- **Type:** Client Project  
-- **Tech:** PHP, MySQL  
-- **Description:** Content Editing & Management Platform  
-- **Status:** ✅ Completed  
+**FFS - Demand Form Management** (In Progress)  
+Custom form management system for streamlined demand processing and approval workflows.  
+*Tech Stack: PHP, MySQL*
 
----
+**Elite Editing Platform** ✅  
+Content editing and management platform with collaborative features and version control.  
+*Tech Stack: PHP, MySQL, JavaScript*
 
-### 🏥 Hospital Management System
-- **Type:** Role-Based Web Application  
-- **Tech:** Laravel, PHP, MySQL  
-- **Description:** Multi-role modules for Patients, Doctors, Receptionists & Admin  
-- **Status:** ✅ Completed  
+### Academic & Personal Projects
 
----
+**Hospital Management System** ✅  
+Multi-role web application featuring patient management, appointment scheduling, and medical records system.  
+*Roles: Patient, Doctor, Receptionist, Admin*
 
-### 📱 Mobile Showroom Management System
-- **Type:** Inventory & Billing System  
-- **Tech:** PHP, MySQL, JavaScript  
-- **Description:** Tracks stock, automates billing, and manages products  
-- **Status:** ✅ Completed  
+**Mobile Showroom Management** ✅  
+Inventory tracking system with automated billing, stock management, and sales analytics.
 
----
+**Gold Management System** ✅  
+Specialized inventory system for gold items with customer tracking and transaction management.
 
-### 💰 Gold Management System
-- **Type:** Inventory & Client Tracking  
-- **Tech:** PHP, MySQL, JavaScript  
-- **Description:** Manages gold items, customers, and transactions  
-- **Status:** ✅ Completed  
+**Aura-e-Zindagi E-Commerce** ✅  
+Full-featured online shopping platform with payment integration and order management.
 
 ---
 
-### 🛍️ Aura-e-Zindagi
-- **Type:** E-Commerce Platform  
-- **Tech:** Laravel, PHP, MySQL  
-- **Description:** Full-featured online shopping system  
-- **Status:** ✅ Completed  
+## 📊 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irshadoffc&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Irshadoffc&theme=tokyonight&hide_border=true)
 
-### 🎬 1-Clip Video Splitter
-- **Type:** Lightweight Desktop/Web Tool  
-- **Tech:** JavaScript  
-- **Description:** Simple video-splitting tool for quick edits  
-- **Status:** ✅ Completed  
-
----
-## 📈 GitHub Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Irshadoffc&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irshadoffc&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌍 Connect with Me
+## 🤝 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshad1x2)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Irshadoffc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its-irshad-ali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshad1x2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Arsh00Ali)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irshadoffc)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VamqJts1yT25L6oIDg1o)
+
+📧 **Email:** login.me.internet@gmail.com  
+💬 **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VamqJts1yT25L6oIDg1o)
 
 ---
 
-## 🧠 Fun Fact
+## 💡 What I Bring to the Table
 
-> I love transforming ideas into real, functional digital experiences.  
-> Every project is a new story I code into reality!
+- **Problem Solver:** Analytical approach to breaking down complex requirements
+- **Clean Code Advocate:** Writing maintainable, well-documented code
+- **Continuous Learner:** Always exploring new technologies and best practices
+- **Client-Focused:** Delivering solutions that exceed expectations
+
+---
+
+<div align="center">
+
+**"Transforming ideas into elegant digital solutions"**
+
+⭐️ From [Irshadoffc](https://github.com/Irshadoffc)
+
+</div>
